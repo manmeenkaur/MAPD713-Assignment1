@@ -4,7 +4,8 @@
   "description": "Developing Node.js http server to store and retrieve product information using HTTP GET and POST requests and JSON data format.",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -20,6 +21,7 @@
   },
   "homepage": "https://github.com/manmeenkaur/MAPD713-Assignment1#readme",
   "dependencies": {
+    "body-parser": "^1.20.0",
     "express": "^4.18.1"
   }
 }
