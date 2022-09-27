@@ -1,0 +1,25 @@
+{
+  "name": "mapd713-assignment1",
+  "version": "1.0.0",
+  "description": "Developing Node.js http server to store and retrieve product information using HTTP GET and POST requests and JSON data format.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manmeenkaur/MAPD713-Assignment1.git"
+  },
+  "keywords": [
+    "EnterpriseTechs"
+  ],
+  "author": "Manmeen Kaur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manmeenkaur/MAPD713-Assignment1/issues"
+  },
+  "homepage": "https://github.com/manmeenkaur/MAPD713-Assignment1#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
